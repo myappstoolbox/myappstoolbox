@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bem-vindo ao MyAppsToolbox.com!
 
-<!--
-**myappstoolbox/myappstoolbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é o repositório oficial do [MyAppsToolbox.com](https://myappstoolbox.com/), um portal dedicado a fornecer acesso fácil a uma coleção de aplicativos gratuitos desenvolvidos por nossa equipe.
 
-Here are some ideas to get you started:
+## Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O MyAppsToolbox.com é o seu destino central para descobrir e acessar os aplicativos que desenvolvemos. Nosso objetivo é oferecer ferramentas úteis e gratuitas para facilitar o seu dia a dia.
+
+## Recursos
+
+*   **Portal de Aplicativos**: Navegue por uma seleção de aplicativos gratuitos.
+*   **Acesso Direto**: Links diretos para download ou acesso aos aplicativos.
+*   **Desenvolvimento Próprio**: Todos os aplicativos listados são desenvolvidos e mantidos por nossa equipe.
+
+## Links Úteis
+
+*   **Website**: [myappstoolbox.com](https://myappstoolbox.com/)
+*   **Política de Privacidade**: [privacy.md](privacy.md)
+*   **Termos de Serviço**: [terms.md](terms.md)
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato (Nota: Adicionar informações de contato aqui se desejado, ou remover esta seção).
