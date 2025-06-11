@@ -22,4 +22,4 @@ O MyAppsToolbox.com é o seu destino central para descobrir e acessar os aplicat
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato (Nota: Adicionar informações de contato aqui se desejado, ou remover esta seção).
+Para sugestões, por favor, clique no botão 'Enviar Sugestão' no portal [MyAppsToolbox.com](https://myappstoolbox.com/).
