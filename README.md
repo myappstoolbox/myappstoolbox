@@ -22,4 +22,4 @@ MyAppsToolbox.com is your central destination to discover and access the applica
 
 ## Contact
 
-For suggestions, please click the 'Enviar Sugestão' (Send Suggestion) button on the [MyAppsToolbox.com](https://myappstoolbox.com/) portal.
+For suggestions, please click the 'Send Suggestion' button on the [MyAppsToolbox.com](https://myappstoolbox.com/) portal.
