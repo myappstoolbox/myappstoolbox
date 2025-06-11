@@ -1,23 +1,25 @@
-# Bem-vindo ao MyAppsToolbox.com!
+Leia isto em [Português](README.pt.md).
 
-Este é o repositório oficial do [MyAppsToolbox.com](https://myappstoolbox.com/), um portal dedicado a fornecer acesso fácil a uma coleção de aplicativos gratuitos desenvolvidos por nossa equipe.
+# Welcome to MyAppsToolbox.com!
 
-## Sobre
+This is the official repository for [MyAppsToolbox.com](https://myappstoolbox.com/), a portal dedicated to providing easy access to a collection of free applications developed by our team.
 
-O MyAppsToolbox.com é o seu destino central para descobrir e acessar os aplicativos que desenvolvemos. Nosso objetivo é oferecer ferramentas úteis e gratuitas para facilitar o seu dia a dia.
+## About
 
-## Recursos
+MyAppsToolbox.com is your central destination to discover and access the applications we develop. Our goal is to offer useful and free tools to make your daily life easier.
 
-*   **Portal de Aplicativos**: Navegue por uma seleção de aplicativos gratuitos.
-*   **Acesso Direto**: Links diretos para download ou acesso aos aplicativos.
-*   **Desenvolvimento Próprio**: Todos os aplicativos listados são desenvolvidos e mantidos por nossa equipe.
+## Features
 
-## Links Úteis
+*   **Application Portal**: Browse a selection of free applications.
+*   **Direct Access**: Direct links to download or access the applications.
+*   **In-House Development**: All listed applications are developed and maintained by our team.
+
+## Useful Links
 
 *   **Website**: [myappstoolbox.com](https://myappstoolbox.com/)
-*   **Política de Privacidade**: [privacy.md](privacy.md)
-*   **Termos de Serviço**: [terms.md](terms.md)
+*   **Privacy Policy**: [privacy.md](privacy.md)
+*   **Terms of Service**: [terms.md](terms.md)
 
-## Contato
+## Contact
 
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato (Nota: Adicionar informações de contato aqui se desejado, ou remover esta seção).
+If you have any questions or suggestions, feel free to get in touch (Note: Add contact information here if desired, or remove this section).
